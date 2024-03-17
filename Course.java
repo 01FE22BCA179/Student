@@ -3,7 +3,7 @@ class Course {
     private int[] marks = { 88, 92, 39, 98, 38 };
 
 /**
- * The function "displayStudentcourses" prints out the list of student courses.
+ * The function "displayStudentcourses" prints out the list of student courses.git 
  * 
  */
     public void displayStudentMarks() {
