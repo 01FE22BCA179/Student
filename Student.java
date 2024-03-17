@@ -3,7 +3,7 @@
  * The `Student` class represents a student with attributes such as name, date of birth, USN, program,
  * and department, and includes methods to display the student's details.
  */
-public class Student extends Course {
+public class Student  {
     public String name;
     public String dob;
     public String usn;
@@ -32,7 +32,6 @@ public static void main(String[] args) {
         s.display_details();
         
         s1.displayStudentMarks();
-
         s1.displayStudentcourses();
 
     }
